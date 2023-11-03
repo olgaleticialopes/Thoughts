@@ -2,6 +2,11 @@
 
 This project is a web application developed in Node.js and uses a MySQL database to create a platform where users can register, share their “thoughts” and view the “thoughts” of other users. The idea is to create a community where people can share their thoughts, ideas and reflections.
 
+<div>
+<img  src="https://media.discordapp.net/attachments/1098139264258158602/1169957512154464307/image.png?ex=65574ad7&is=6544d5d7&hm=4324c494cef67361f6ae03591b47263449b35e18bacaa0cd3067e41dca456747&=&width=1117&height=665">
+
+</div>
+
 ## 📌 Functionalities
 
 - **User Registration:** Users can register on the platform by providing information such as username, email and password. 📝👤
