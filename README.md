@@ -46,11 +46,11 @@ Access the application in your browser at http://localhost:3000 or on the port y
 Contributions are welcome! If you want to improve the project, feel free to open issues, submit pull requests, and collaborate. 🤝
 
 ## Technologies used
-Node.js
-MySQL
-Expresso.js
-EJS (Embedded JavaScript)
-Passport.js (for authentication)
+* Node.js
+* MySQL
+* Express.js
+* EJS (Embedded JavaScript)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 🤝
